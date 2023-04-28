@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""Displays the X-Request-Id header variable of a request to a given URL.
-Usage: ./1-hbtn_header.py <URL>
+"""Displays de header variable of a request to a given custom URL.
+Usage: for ./1-hbtn_header.py
 """
 import sys
 import urllib.request
